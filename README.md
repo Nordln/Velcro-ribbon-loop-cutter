@@ -1,6 +1,6 @@
 # Velcro-ribbon-loop-cutter
 
-<img src="https://github.com/Nordln/Velcro-ribbon-loop-cutter/blob/main/1_Cut.jpg" width="150"><img src="https://github.com/Nordln/Velcro-ribbon-loop-cutter/blob/main/2_Extract.jpg" width="150"><img src="https://github.com/Nordln/Velcro-ribbon-loop-cutter/blob/main/3_Clear.jpg" width="150"><img src="https://github.com/Nordln/Velcro-ribbon-loop-cutter/blob/main/4_Mount.jpg" width="150">
+<img src="https://github.com/Nordln/Velcro-ribbon-loop-cutter/blob/main/1_Cut.jpg" width="25%"><img src="https://github.com/Nordln/Velcro-ribbon-loop-cutter/blob/main/2_Extract.jpg" width="25%"><img src="https://github.com/Nordln/Velcro-ribbon-loop-cutter/blob/main/3_Clear.jpg" width="25%"><img src="https://github.com/Nordln/Velcro-ribbon-loop-cutter/blob/main/4_Mount.jpg" width="25%">
 
 ```stl
 solid Visualization Toolkit generated SLA File
